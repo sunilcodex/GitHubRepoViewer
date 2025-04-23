@@ -37,4 +37,4 @@ This project is an Android application built to interact with the GitHub API. It
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/sunilcodex/GitHubRepoViewer.git
