@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Custom Splash Animation View -->
+    <com.ameyaa.app.ui.Library.CustomView.GhibliThaliView
+        android:id="@+id/splashAnimationView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.noname.app.ui.Library.CustomView.ConsoleLoadingView
+        android:id="@+id/consoleLoadingView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginHorizontal="@dimen/_14sdp"
+        android:layout_marginBottom="@dimen/_50sdp"
+        android:padding="16dp"/>
+
+
+</FrameLayout>

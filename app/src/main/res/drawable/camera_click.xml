@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+  <!-- Camera Body -->
+  <path
+      android:fillColor="#03A9F4"
+      android:pathData="M20 5h-3.17l-1.83-2h-6l-1.83 2H4c-1.11 0-2 .89-2 2v12c0 1.11 .89 2 2 2h16c1.11 0 2-.89 2-2V7c0-1.11-.89-2-2-2zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5z"/>
+
+  <!-- Camera Lens (Converted Circle to Path) -->
+  <path
+      android:fillColor="#FFFFFF"
+      android:pathData="M12,9 A3,3 0 1,1 12,15 A3,3 0 1,1 12,9Z"/>
+
+  <!-- Click Flash Effect (Dotted Style) -->
+  <path
+      android:fillColor="#FFD700"
+      android:strokeWidth="1"
+      android:strokeColor="#FFD700"
+      android:strokeLineCap="round"
+      android:pathData="M12 2v2M18 4.5l-1.5 1.5M22 12h-2M18 19.5l-1.5-1.5M12 22v-2M6 19.5l1.5-1.5M2 12h2M6 4.5l1.5 1.5"/>
+</vector>

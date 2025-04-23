@@ -1,0 +1,76 @@
+<resources>
+
+
+    <dimen name="marginView">45dp</dimen>
+    <dimen name="circleView">28dp</dimen>
+    <dimen name="dateView">45dp</dimen>
+
+
+
+    <dimen name="menu_item_icon_size">@dimen/_18sdp</dimen>
+
+    <dimen name="lazy_date_picker_width_case">33dp</dimen>
+    <dimen name="lazy_date_picker_height_focus">2.5dp</dimen>
+    <dimen name="lazy_date_picker_width_margin">1dp</dimen>
+    <dimen name="lazy_date_picker_width_space">6dp</dimen>
+
+    <dimen name="underline_top_spacing">8dp</dimen>
+    <dimen name="underline_bottom_spacing">4dp</dimen>
+    <dimen name="error_label_spacing">12dp</dimen>
+
+    <dimen name="floating_label_top_spacing">8dp</dimen>
+    <dimen name="floating_label_bottom_spacing">12dp</dimen>
+    <dimen name="floating_label_inside_spacing">12dp</dimen>
+
+    <dimen name="right_left_spinner_padding">8dp</dimen>
+    <dimen name="label_text_size">12sp</dimen>
+    <dimen name="min_content_height">20dp</dimen>
+
+    <dimen name="image_re">@dimen/_18sdp</dimen>
+    <dimen name="statusBarHeight">@dimen/_12sdp</dimen>
+
+    <!-- Font size -->
+
+    <dimen name="search_view_inset">@dimen/_7sdp</dimen>
+
+    <dimen name="tabsHeight">48dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="otp_view_item_size">@dimen/_27sdp</dimen>
+    <dimen name="otp_view_item_spacing">@dimen/_4sdp</dimen>
+    <dimen name="otp_view_item_line_width">2dp</dimen>
+    <dimen name="otp_view_cursor_width">2dp</dimen>
+
+    <!--    <dimen name="card_img_corner">30dp</dimen>-->
+
+    <dimen name="default_indicator_size">@dimen/_6sdp</dimen>
+    <dimen name="default_indicator_margins">@dimen/_4sdp</dimen>
+    <dimen name="default_dash_indicator_width">@dimen/_9sdp</dimen>
+    <dimen name="round_square_indicator_radius">2dp</dimen>
+
+
+    <declare-styleable name="ZigzagView">
+        <attr name="zigzagHeight" format="dimension" />
+        <attr name="zigzagElevation" format="dimension" />
+        <attr name="zigzagBackgroundColor" format="color" />
+        <attr name="zigzagPaddingContent" format="dimension" />
+        <attr name="zigzagPadding" format="dimension" />
+        <attr name="zigzagPaddingLeft" format="dimension" />
+        <attr name="zigzagPaddingRight" format="dimension" />
+        <attr name="zigzagPaddingBottom" format="dimension" />
+        <attr name="zigzagPaddingTop" format="dimension" />
+        <attr name="zigzagSides">
+            <flag name="top" value="1" />
+            <flag name="bottom" value="2" />
+        </attr>
+        <attr name="zigzagShadowAlpha" format="float" />
+    </declare-styleable>
+
+    <!--    ###############################################-->
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+
+</resources>

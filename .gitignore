@@ -1,0 +1,16 @@
+# Ignore Android Studio specific files
+*.iml
+.idea/
+.DS_Store
+local.properties
+
+# Ignore build artifacts
+/build/
+app/build/
+.gradle/
+.captures/
+.externalNativeBuild/
+.cxx/
+
+# Ignore log files
+*.log

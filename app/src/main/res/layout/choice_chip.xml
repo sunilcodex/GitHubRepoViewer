@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.chip.Chip xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:theme="@style/Theme.MaterialComponents.Light"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/action_chip_txt"
+    android:layout_marginLeft="10dp"
+    android:layout_marginStart="10dp"
+    android:padding="10dp"
+    app:chipIconTint="@color/md_grey_800"
+    app:chipBackgroundColor="@color/transparent"
+    app:chipStrokeColor="@color/md_grey_800"
+    app:chipStrokeWidth="1dp"
+    android:text="Hello World"
+    app:iconStartPadding="5dp"
+    android:id="@+id/choice_chip" />

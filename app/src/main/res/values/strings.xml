@@ -1,0 +1,58 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="app_name">NoName</string>
+
+
+    <string name="web_client_id">321836031359-c0s1kdvalnij1oqlqvqenkd6ejv9m4hr.apps.googleusercontent.com</string>
+
+    <string name="internal_storage">Internal storage</string>
+
+    <string name="ldp_day">D</string>
+    <string name="ldp_month">M</string>
+    <string name="ldp_year">Y</string>
+
+    <string name="title_activity_bizzactivity">BIZZActivity</string>
+    <string name="List">List</string>
+
+    <!--    <string name="bakers">Baker\'s</string>-->
+    <!--    <string name="food">Food</string>-->
+    <!--    <string name="address_book">Address Book</string>-->
+    <!--    <string name="my_orders">My Orders</string>-->
+    <!--    <string name="profile">Profile</string>-->
+
+    <string name="fcm_token">Profile</string>
+
+    <string name="label_loading">Loading…</string>
+
+    <string name="Search">Search</string>
+
+    <string name="Welcome">Welcome!</string>
+    <string name="Your_Name">Your Name</string>
+    <string name="Your_Address">Your Address</string>
+    <string name="phone">Phone</string>
+    <string name="prompt_email">Email</string>
+    <string name="create_account">Create Account</string>
+    <string name="Save">Save</string>
+
+
+    <string name="no_internet">Please check your internet connection</string>
+    <string name="network_error">Network error, could get data,please try again!</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >4 characters</string>
+    <string name="invalid_username_and_password">please check your username and password</string>
+    <string name="search_error">there is no such recipe name</string>
+    <string name="delete_account_msg">if you delete your account, you will permanently lose your profile , messages , photos , and matches. if you delete your account , this action cannot be undone.\n\nif you\'d rather keep your account but not be shown to other , you can hide your account instead. You can turn this off in settings. \n\n Are you sure you want delete your account?</string>
+    <string name="notice"><![CDATA[If you delete .SafeGallery folder in SDcard, locked files will be deleted. \n\nIf you choose Clear data menu(path : Settings > Applications manager > Citas), information of locked files will be deleted. \n\nApp which has function like cleaning up storage (ex. Clean Master) might be able to delete locked media, so do not delete any relative files of Safe Gallery while cleaning up your smartphone. \n\nDo not forget to unlock and back up locked medias before upgrading firmware or formatting internal/external SDcard If not, all locked medias might be able to be deleted. \n\nBefore deleting Safe Gallery, do not forget to unlock all locked medias and then delete Safe Gallery. \n\nIf not, all locked medias might be able to be deleted. Please back up important locked media in extra storage. \n\nAll locked medias might be able to be deleted in other Apps or outbreak situation.\n\n]]></string>
+    <string name="verified_info">Comparing your photo to your profile is how we check you\'re a real person. It keeps Bumble safe and honest. \n\nVerification is optional and we\'ll only use your photo to confirm you\'re you. It won\'t go on your profile, so doesn\'t have to be your best.</string>
+
+
+    <string name="my_number">My number is</string>
+    <string name="get_otp">NEXT</string>
+    <string name="otp_verific">OTP Verification</string>
+    <string name="an_6_digit_">An <b>6 digit code</b> has been sent to</string>
+    <string name="didn_t_rece">Didn\'t receive the OTP? <b>Resend</b></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

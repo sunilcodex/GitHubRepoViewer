@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" >
+        <shape android:shape="rectangle">
+            <solid android:color="@color/light_blue_A400"/>
+            <corners android:radius="30dp"/>
+        </shape>
+    </item>
+    <item android:state_selected="false" >
+        <shape android:shape="rectangle">
+            <solid android:color="@color/white"/>
+            <solid android:color="#FFFFFF"/> <!--your desired colour for solid-->
+            <corners android:radius="30dp"/> <!--shape rounded value-->
+            <stroke
+                android:width="0.5dp"
+                android:color="@color/white" /> <!--your desired colour for border-->
+        </shape>
+    </item>
+
+</selector>
